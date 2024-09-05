@@ -1,0 +1,6 @@
+## Interface: 110000
+## Title: Clipboard
+
+embeds.xml
+
+core.lua
